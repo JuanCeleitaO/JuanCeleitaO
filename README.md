@@ -7,7 +7,6 @@ I am a Software Engineering student based in Colombia, specializing in backend a
 ### 👨‍💻 Professional Focus
 
 *   **Backend & Architecture:** Developing robust server-side logic and managing data integrity across Oracle, PostgreSQL, and MongoDB environments.
-*   **Systems Integration:** Connecting diverse technologies, such as integrating custom Python Multi-Layer Perceptron (AI) models into Unity 3D environments.
 *   **Infrastructure & Networking:** Configuring Cisco switches and deploying containerized applications using Docker.
 *   **Project Leadership:** Leading game development initiatives at **ObsidianCat Studio** and delivering end-to-end solutions for freelance clients.
 
