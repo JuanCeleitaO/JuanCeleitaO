@@ -47,13 +47,13 @@ I am a Software Engineering student based in Colombia, specializing in backend a
     Leading a team in the creation of sandbox video games, focusing on core mechanics and system architecture in Unity.
 
 ---
-
-### 📈 GitHub Analytics
+<!
+*### 📈 GitHub Analytics
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7"/>
-</div>
+</div>!>
 
 ---
 
