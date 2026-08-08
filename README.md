@@ -51,4 +51,4 @@ I am a Software Engineering student based in Colombia, specializing in backend a
 ### ⚡ Beyond the Screen
 When I am not coding or configuring networks, you can usually find me playing soccer, learning traditional Colombian music on the bandola andina, or keeping up with my favorite manhwa series. 
 
-📫 **Open to opportunities and collaboration.** Connect with me on [LinkedIn](YOUR_LINK_HERE) or reach out via [Email](mailto:your_email@email.com).
+📫 **Open to opportunities and collaboration.** Connect with me on [LinkedIn](https://www.linkedin.com/in/david-celeita-12a771362 ) or  [Workana](https://www.workana.com/freelancer/aaf6343d5d2fdfebf624979601f62aa2).
