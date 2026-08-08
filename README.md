@@ -8,7 +8,7 @@ I am a Software Engineering student based in Colombia, specializing in backend a
 
 *   **Backend & Architecture:** Developing robust server-side logic and managing data integrity across PostgreSQL, and MongoDB environments.
 *   **Infrastructure & Networking:** Configuring Cisco switches and deploying containerized applications using Docker.
-*   **Project Leadership:** Leading game development initiatives at **ObsidianCat Studio** and delivering end-to-end solutions for freelance clients, i´m trying focus on my profesional carrer and building my folder.
+*   **Project Leadership:** Leading game development initiatives at **ObsidianCat Studio** and delivering end-to-end solutions for freelance clients, i´m trying focus on my professional carrer and building my folder.
 
 ---
 
@@ -45,15 +45,6 @@ I am a Software Engineering student based in Colombia, specializing in backend a
     Developed and trained a Multi-Layer Perceptron (MLP) model in Python, successfully exporting and visualizing its 3D decision boundaries within the Unity engine.
 *   **ObsidianCat Studio | Lead Developer:** 
     Leading a team in the creation of sandbox video games, focusing on core mechanics and system architecture in Unity.
-
----
-<!
-*### 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7"/>
-</div>!>
 
 ---
 
